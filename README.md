@@ -1,1 +1,1 @@
-# C_HW2
+# C-Programming-Homework2
